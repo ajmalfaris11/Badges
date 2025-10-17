@@ -1,1 +1,1 @@
-it's the repo for badges
+it's the repo for badges creation
